@@ -3,7 +3,7 @@
 Project link: https://car-price-price.herokuapp.com
 Demo Video: https://youtu.be/HEaFU68WAPM
 
-<img src="https://github.com/rajtilakls2510/car_price_predictor/blob/master/demo.png](https://github.com/SamChaudhary1234/Car-Price-Predictor-Project-Machine-Learning-Linear-Regression/blob/main/demo.png">
+![Image Alt](https://github.com/SamChaudhary1234/Car-Price-Predictor-Project-Machine-Learning-Linear-Regression/blob/main/demo.png?raw=true)
 
 
 
